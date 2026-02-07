@@ -1,6 +1,6 @@
 # Paul George
 
-Senior / frontend engineer (19 years, UK). I turn messy wensites and SME WordPress setups into fast, low‑code, Git‑driven platforms that are quicker to build on, easier to support, and less likely to fall over.
+Senior / frontend engineer (19 years, UK). I turn messy websites and SME WordPress setups into fast, low‑code, Git‑driven platforms that are quicker to build on, easier to support, and less likely to fall over.
 
 I’m open to:
 - Remote frontend / WordPress roles (UK‑based)
