@@ -1,11 +1,11 @@
 # Paul George
 
-I've spent decades navigating the ever-changing landscape of web development, from the templates of the past to the "blazing fast" React websites of today and the WordPress clunkers inbetween. I'm not here to use jargon to make myself feel important. I'm here to bridge the gap between design and technical reality with clean code and a healthy dose of skepticism for over-engineered solutions. I build premium software for clients who are tired of excuses.
+I've spent decades shipping and rescuing real-world sites, from old template stacks to modern React builds and the WordPress clunkers in between. I'm not here to drown you in jargon; I'm here to bridge the gap between design and engineering with clean code and a low tolerance for over-engineered nonsense.
 
-In my world, resourcefulness beats academia every day of the week. I leverage AI and my years of experience to build at pace. I'm not afraid to use the latest tech to get you from A to B, because at the end of the day, you aren't paying for my struggle, you're paying for my expertise and a finished product that works.
+Resourcefulness beats theory every day of the week. I lean on smart tools (including AI) and experience to move fast without trashing maintainability. You're not paying for my struggle, you're paying for my judgment and a finished product that works.
 
 I’m open to:
-- Remote frontend / WordPress roles (UK‑based)
+- Remote frontend roles (UK‑based)
 - Short, well‑defined freelance projects
 - Consulting to sort out slow, fragile stacks and chaotic web delivery
 
