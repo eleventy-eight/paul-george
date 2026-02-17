@@ -1,13 +1,16 @@
 # Paul George
 
-I've spent decades shipping and rescuing real-world sites, from old template stacks to modern React builds and the WordPress clunkers in between. I'm not here to drown you in jargon; I'm here to bridge the gap between design and engineering with clean code and a low tolerance for over-engineered nonsense.
+**I fix slow, clunky websites and stop new builds turning into bloated disasters.**
 
-Resourcefulness beats theory every day of the week. I lean on smart tools (including AI) and experience to move fast without trashing maintainability. You're not paying for my struggle, you're paying for my judgment and a finished product that works.
+Decades of shipping and rescuing real sites, from template stacks to React builds and WordPress messes. I bridge the gap between design and engineering with clean code and little tolerance for over-engineered nonsense.
 
-I’m open to:
-- Remote frontend roles (UK‑based)
-- Short, well‑defined freelance projects
-- Consulting to sort out slow, fragile stacks and chaotic web delivery
+Resourcefulness beats theory. I use smart tools (including AI) and experience to move fast without trashing maintainability. You're not paying for my struggle, you're paying for my judgment and a finished product that works.
+
+## 🟢 Open to Work
+
+- Remote frontend roles (UK-based)
+- Short, well-defined freelance projects
+- Consulting to fix slow, fragile stacks and chaotic web delivery
 
 ## 🔧 Tech & tools
 
@@ -28,4 +31,4 @@ Typical work:
 
 - Website: https://eleventy8.com
 - Indeed Profile: https://profile.indeed.com/p/paulg-m198v69
-- Email: [paul@eleventy8.com](mailto:paul@eleventy8.com)
+- Email: [admin@eleventy8.com](mailto:admin@eleventy8.com)
