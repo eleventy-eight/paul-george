@@ -31,7 +31,7 @@ Typical work:
 
 If you've arrived here from my website and are looking to review my personal projects, they are currently private. Each one was built to solve a specific problem I encountered, and I haven't yet had the opportunity to make them sufficiently generic for broader use.
 
-I'm not opposed to open source — it's something I'm actively considering as a next step. In the meantime, if you're a potential employer and would like a walkthrough or explainer of any of my projects, please get in touch directly and I'll be happy to talk you through them.
+I'm not opposed to open source, it's something I'm actively considering as a next step. In the meantime, if you're a potential employer and would like a walkthrough or explainer of any of my projects, please get in touch directly and I'll be happy to talk you through them.
 
 ## 📫 Get in touch
 
