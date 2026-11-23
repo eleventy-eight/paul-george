@@ -26,4 +26,3 @@ Some of my personal repositories are private. If you’d like to see how I appro
 - [eleventy8 website and contact form](https://eleventy8.com/)
 - [LinkedIn](https://www.linkedin.com/in/paul-george-eleventy8/)
 - [Indeed](https://profile.indeed.com/p/paulg-m198v69)
-- [Email](mailto:admin@eleventy8.com)
