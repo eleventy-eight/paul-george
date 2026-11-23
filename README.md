@@ -4,7 +4,7 @@
 
 I’m a Senior Front-End Developer based in Cornwall. I build and support estate agency websites, connect them to CRM systems and property feeds, and trace problems across the systems that handle listings and enquiries.
 
-When I build an integration, I work out which system owns the data, what the website needs to validate, and where each enquiry should go. I agree how we’ll check it at launch and document what support needs to know when something changes.
+I like getting involved while the requirements are still taking shape. I work out which system owns the data, what the website needs to validate and how we’ll test it. Then I build it, check it through to launch and leave enough documentation for the next person to support it.
 
 ## What I work on
 
